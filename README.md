@@ -1,5 +1,7 @@
 # Cyclistic Bike-Share Data Analysis
 
+![Cyclistic Dashboard](final_dashboard.png)
+
 ## Project Overview
 
 This project analyzes Cyclistic bike-share usage to understand how annual members and casual riders use bikes differently.
